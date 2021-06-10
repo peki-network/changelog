@@ -8,4 +8,4 @@
  - [ ] Versión 0.0.0.0.7 pre alpha. ***Quinto artículo***
  - [ ] Versión 0.0.0.0.8 pre alpha. ***Crear política de admisión de contenido***
 
-***[Volver](https://github.com/peki-network/home)***
+***[Volver](https://github.com/peki-network/home/blob/main/README.md)***
